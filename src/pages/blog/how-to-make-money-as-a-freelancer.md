@@ -1,9 +1,9 @@
 ---
-layout: '../../layouts/Post.astro'
+layout: "../../layouts/Post.astro"
 title: How to Make Money as a Freelancer
 image: /images/freelance
 publishedAt: "2021-01-01"
-category: 'Freelance'
+category: "Freelance"
 ---
 
 ## Heading 2
@@ -11,7 +11,7 @@ category: 'Freelance'
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget gravida cum sociis natoque penatibus et magnis dis. Posuere morbi leo urna molestie at elementum eu facilisis sed. Lectus nulla at volutpat diam. Pharetra magna ac placerat vestibulum lectus. Turpis massa tincidunt dui ut ornare lectus sit amet. Pretium vulputate sapien nec sagittis. Mollis nunc sed id semper. Odio pellentesque diam volutpat commodo sed egestas. Mi sit amet mauris commodo quis. Ullamcorper morbi tincidunt ornare massa. Mi proin sed libero enim sed faucibus turpis. Eu consequat ac felis donec et. Ultricies integer quis auctor elit. Aliquam sem et tortor consequat id porta nibh.
 
 ```js
-let foo = 'bar';
+let foo = "bar";
 
 console.log(foo);
 ```
